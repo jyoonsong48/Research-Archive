@@ -1,4 +1,5 @@
-## $\color{#97BFB4}{\text{📚 Journal Club Notes}}$
-$color{#fffff}{/text{This space contains summarys of the papers I read.}}$ <br>
-### $color{#fffff}{/text{Lists:}}$
-<br> TO BE ADDED...
+## \$\color{#97BFB4}{\text{📚 Journal Club Notes}}$
+$\color{ffffff}\text{This space contains summaries of the papers I read.}$
+
+### $\color{ffffff}\text{Lists:}$
+TO BE ADDED...
