@@ -1,5 +1,5 @@
 ## Forensic DNA methylation profiling from evidence material for investigative leads
-`Lee, H. Y., Lee, S. D., & Shin, K.-J. (2016). Forensic DNA methylation profiling from evidence material for investigative leads. BMB Reports, 49(7), 359–369. https://doi.org/10.5483/bmbrep.2016.49.7.070`
+Lee, H. Y., Lee, S. D., & Shin, K.-J. (2016). Forensic DNA methylation profiling from evidence material for investigative leads. BMB Reports, 49(7), 359–369. https ://doi.org/10.5483/bmbrep.2016.49.7.070
 ### `Keywords:`
 `Age prediction, Body fluid identification, DNA methylation, Forensic genetics, Investigative lead`
 ### `Summary`
