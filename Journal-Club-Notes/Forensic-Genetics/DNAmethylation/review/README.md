@@ -9,7 +9,7 @@
 STR with markers is typically conducted for forensic DNA typing. As the markers advanced, rather than EVC which is difficult to employ for Asians and Africans, age profiling using DNA methylation and mRNA/miRNA expression is employed.
 ### BIOLOGICAL BACKGROUND
 1. DNA methylation
-   In bacteria, DNA methylation is usually for immune response (typically with A and C) whilst in eukaryotes it regulates the structure and expression of genome (C only). In vetebrate, this applies to entire genome but in plants (and 무척추동물) it's rather specific.
+   In bacteria, DNA methylation is usually for immune response (typically with A and C) whilst in eukaryotes it regulates the structure and expression of genome (C only). In vertebrates, this applies to entire genome but in plants (and invertebrates) it's rather specific.
    There's a certain region in human DNA which DNA methlyation does not occur: CpG island.
 2. DMA methylation: variants
    DNA methlyation is expressed either 0/1 (on/off) and age (epigenetic clock/drift), diet, stress, smoking, genetic factor can change it.
