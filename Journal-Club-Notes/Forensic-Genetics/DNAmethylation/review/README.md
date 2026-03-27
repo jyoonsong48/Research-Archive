@@ -1,10 +1,11 @@
 ## Forensic DNA methylation profiling from evidence material for investigative leads
 Lee, H. Y., Lee, S. D., & Shin, K.-J. (2016). Forensic DNA methylation profiling from evidence material for investigative leads. BMB Reports, 49(7), 359–369. https ://doi.org/10.5483/bmbrep.2016.49.7.070
 ### `Keywords:`
-`Age prediction, Body fluid identification, DNA methylation, Forensic genetics, Investigative lead`
+Age prediction, Body fluid identification, DNA methylation, Forensic genetics, Investigative lead
 ### `Summary`
-`DNA methylation profiling is a promising lead on investigation: prediction on age/lifestyle when there're determination of lowest DNA concentration that is capable to produce result & careful choice on assay design. More reserach on cell linegae and tissue of origin is needed as they are major dependants of the profiling.`
+DNA methylation profiling is a promising lead on investigation: prediction on age/lifestyle when there're determination of lowest DNA concentration that is capable to produce result & careful choice on assay design. More reserach on cell linegae and tissue of origin is needed as they are major dependants of the profiling.
 ***
+### `Section Analysis`
 ### INTRODUCTION
 STR with markers is typically conducted for forensic DNA typing. As the markers advanced, rather than EVC which is less informative for Asians and Africans, age profiling using DNA methylation and mRNA/miRNA expression is employed.
 ### BIOLOGICAL BACKGROUND
