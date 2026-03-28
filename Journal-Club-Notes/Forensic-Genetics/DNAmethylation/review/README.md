@@ -10,10 +10,10 @@ DNA methylation profiling is a promising lead on investigation: prediction on ag
 STR with markers is typically conducted for forensic DNA typing. As the markers advanced, rather than EVC which is less informative for Asians and Africans, age profiling using DNA methylation and mRNA/miRNA expression is employed.
 ### BIOLOGICAL BACKGROUND
 1. DNA methylation
-   In bacteria, DNA methylation is usually for immune response (typically with A and C) whilst in eukaryotes it regulates the structure and expression of genome (C only). In vertebrates, this applies to entire genome but in plants (and invertebrates) it's rather specific.
+<br>   In bacteria, DNA methylation is usually for immune response (typically with A and C) whilst in eukaryotes it regulates the structure and expression of genome (C only). In vertebrates, this applies to entire genome but in plants (and invertebrates) it's rather specific.
    There's a certain region in human DNA which DNA methylation does not occur: CpG island.
 2. DMA methylation: variants
-   DNA methylation is expressed either 0/1 (on/off) and age (epigenetic clock/drift), diet, stress, smoking, genetic factor can change it.
+<br>  DNA methylation is expressed either 0/1 (on/off) and age (epigenetic clock/drift), diet, stress, smoking, genetic factor can change it.
 ### FORENSIC APPLICAITONS OF DNA METHYLATION
 1. Tissue-specific DNA methylation changes and foresic body fluid identification
 <br> Context: DNA methylation tends to be consistent within the same tissue in different individuals rather than different tissue in the same individual. Therefore, use of MSRE-PCR allows identification of body fluids. Bisulfite sequencing method can be used for tDMRs (Tissue-specific Differentially Methylated Regions) which exist in mammal genome can also aid identifying the body fluid such as blood, saliva, semen, vaginal secretion, and menstrual blood.
