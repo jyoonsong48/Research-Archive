@@ -5,3 +5,4 @@ Age prediction, Body fluid identification, DNA methylation, Forensic genetics, I
 ### `Summary`
 DNA methylation profiling is a promising lead on investigation: prediction on age/lifestyle when there're determination of lowest DNA concentration that is capable to produce result & careful choice on assay design. More reserach on cell linegae and tissue of origin is needed as they are major dependants of the profiling.
 ***
+### `To look at detailed notes` : <kbd> [![NotionLink](https://img.shields.io/badge/-97BFB4?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Forensic-DNA-methylation-profiling-from-evidence-material-for-investigative-leads-292e6fcf9c3f837fa57081e1be3ce9cb) </kbd>
