@@ -1,4 +1,4 @@
-## Forensic DNA methylation profiling from evidence material for investigative leads
+## `Forensic DNA methylation profiling from evidence material for investigative leads`
 Lee, H. Y., Lee, S. D., & Shin, K.-J. (2016). Forensic DNA methylation profiling from evidence material for investigative leads. BMB Reports, 49(7), 359–369. https ://doi.org/10.5483/bmbrep.2016.49.7.070
 ### `Keywords:`
 Age prediction, Body fluid identification, DNA methylation, Forensic genetics, Investigative lead
@@ -31,3 +31,56 @@ STR with markers is typically conducted for forensic DNA typing. As the markers 
 <br> Design process: Choose an adequate marker -> locus-specific analysis design: A or B
 <br> A. sequencing-based tech. (multiplexing X-> time, effort, cost needed)
 <br> B. methylation SNaPshot (multiplexing O, results can be seen with electropherogram but on/off recommende rather than hyper/hypo)
+***
+### `New Findings`
+- sj TREC DNA quantification
+<br> Definition: Quantifying of Singal Joint T-cell Receptor Exicision Circles (sjTRECs) 
+<br> Note: Measurement of immunosenescence or function of Thymus as sjTRECs aren't replicated during mitosis
+<br> Source: Hisazumi et al., 2015, Detection and quantification of bovine signal joint T-cell receptor excision circles
+
+- MSRE-PCR (Methylation-Sensitive Restriction Enzyme PCR)
+<br> Definition: PCR using methylation-sensitive restrcition enzyme.
+<br> Note: If there wasn't DNA methylation, PCR amplification does not work for it.
+<br> Source: Gattuso et al., 2024, Methylation-sensitive restriction enzyme-droplet digital PCR assay for the one-step highly sensitive analysis of DNA methylation hotspots
+
+- Bisulfite sequencing
+<br> Definition: Treating DNA with bisulfite -> investigate DNA sequence
+<br> Note: unmethylated Cytosine becomes Uracil
+<br> Souce: Li and Tollefsbol, 2011, DNA methylation detection: Bisulfite genomic sequencing analysis
+
+- HumanMethylation 450 BeadChip assay
+<br> Definition: Measurement of DNA methylation levels at over 450k CpG sites across human genome.
+<br> Note: 27K, EPIC(850K/930K) ver. also exisit
+<br> Source: illumina
+
+- Ms-SNuPE (Methylation-sensitive single-nucleotide primer extension)
+<br> Definition: Quantitative, bisulfite-based tech. used to measure DNA methylation levels at specific sites by C/U(T) ratio.
+<br> Note: bisulfite conversion -> PCR amplification -> primer extension -> gel/capillary electrophoresis
+<br> Source: Gonzalgo and Liang, 2007, Methylation-sensitive single-nucleotide primer extension (Ms-SNuPE) for quantitative measurement of DNA methylation
+
+- Methylation SNaPshot
+<br> Definition: single base extension reaction, multiplexing available
+<br> Note: ELectropherogram to visualise data
+<br> Source: Kaminsky and Petronis, 2009, Methylation SNaPshot: A Method for the Quantification of Site-Specific DNA Methylation Levels
+
+- MehtyLight
+<br> Definition: Sodium-bisulfite-dependent, quantitative, fluorescence-based, real-time PCR method to sensitively detect and quantify DNA methylation in genomic DNA.
+<br> Note: Available to perform with very little amount of a sample.
+<br> Source: Campan, 2009, MethyLight
+
+- Direct bisulfite pyrosequencing
+<br> Definition: Analysis of DNA methylation at single-nulceotide resolution by detecting light that occurs at DNA repliccation.
+<br> Source: Bassil et al., 2013, Bisulfite pyrosequencing
+
+- Polycomb group protein target genes
+<br> Definition: Targeted genes of Polycomb group (PcG) proteins, which are transcriptional represorrs.
+<br> Source: Simon, 2003, Polycomb group proteins
+
+- DNMTs
+<br> Definition: DNA Methyltransferases, enzymes that methylate DNA by attaching $-CH_3$
+<br> Source: Lyko, 2017, The DNA methyltransferase family: a versatile toolkit for epigenetic regulation
+***
+### `Questions`
+1. How to age profile with mRNA, miRNA expression?
+2. What's the basis of choosing BeadChip? Why choose 450/27/EPIC?
+3. How much profiling improved compared to the year of publish?
