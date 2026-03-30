@@ -1,5 +1,5 @@
 ## `Independent validation of DNA-based approaches for age prediction in blood`
-Cho, S., Jung, S.-E., Hong, S. R., Lee, E. H., Lee, J. H., Lee, S. D., & Lee, H. Y. (2017). Independent validation of DNA-based approaches for age prediction in blood. Forensic Science International: Genetics, 29, 250–256. https://doi.org/10.1016/j.fsigen.2017.04.020
+Cho, S., Jung, S.-E., Hong, S. R., Lee, E. H., Lee, J. H., Lee, S. D., & Lee, H. Y. (2017). Independent validation of DNA-based approaches for age prediction in blood. Forensic Science International: Genetics, 29, 250–256. https ://doi.org/10.1016/j.fsigen.2017.04.020
 ### `keywords:`
 DNA methylation, sjTREC, Age prediction, Blood, Foresnic science, Forensic genetics
 ### `Summary`
