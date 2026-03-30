@@ -4,3 +4,6 @@ $\text{1. Forensic DNA methylation profiling from evidence material for investig
 
 $\text{2. DNA methylation-based age prediction from saliva: High age predictability by combination of 7 CpG markers}$
 <br> 🔗 <kbd> [![](https://img.shields.io/badge/🥼-97BFB4?style=for-the-badge)](./research/from-saliva) </kbd>
+
+$\text{3. Independent validation of DNA-based approaches for age prediction in blood}$
+<br> 🔗 <kbd> [![](https://img.shields.io/badge/🥼-97BFB4?style=for-the-badge)](./research/from-blood) </kbd>
