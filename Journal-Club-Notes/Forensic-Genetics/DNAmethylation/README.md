@@ -7,3 +7,7 @@ $\text{2. DNA methylation-based age prediction from saliva: High age predictabil
 
 $\text{3. Independent validation of DNA-based approaches for age prediction in blood}$
 <br> 🔗 <kbd> [![](https://img.shields.io/badge/🥼-97BFB4?style=for-the-badge)](./research/from-blood) </kbd>
+
+
+$\text{4. Age prediction using DNA methylation of Y-chromosomal CpGs in semen samples}$
+<br> 🔗 <kbd> [![](https://img.shields.io/badge/🥼-97BFB4?style=for-the-badge)](./research/from-semen) </kbd>
