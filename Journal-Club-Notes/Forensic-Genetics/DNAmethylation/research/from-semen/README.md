@@ -1,5 +1,5 @@
 ## `Age prediction using DNA methylation of Y-chromosomal CpGs in semen samples`
-Lee, J. E., Park, S. U., So, M. H., & Lee, H. Y. (2024). Age prediction using DNA methylation of Y-chromosomal CpGs in semen samples. Forensic Science International Genetics, 69, 103007. https://doi.org/10.1016/j.fsigen.2024.103007
+Lee, J. E., Park, S. U., So, M. H., & Lee, H. Y. (2024). Age prediction using DNA methylation of Y-chromosomal CpGs in semen samples. Forensic Science International Genetics, 69, 103007. https: //doi.org/10.1016/j.fsigen.2024.103007
 ### `keywords:`
 Methylation, Age, Y-chromosome, Massively parallel sequencing, Semen
 ### `Summary`
