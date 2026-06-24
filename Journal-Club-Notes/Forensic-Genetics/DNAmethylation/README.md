@@ -11,3 +11,6 @@ $\text{3. Independent validation of DNA-based approaches for age prediction in b
 
 $\text{4. Age prediction using DNA methylation of Y-chromosomal CpGs in semen samples}$
 <br> 🔗 <kbd> [![](https://img.shields.io/badge/🥼-97BFB4?style=for-the-badge)](./research/from-semen) </kbd>
+
+$\text{5. Genome-wide DNA methylome profiling to differentiate monozygotic twins}$
+<br> 🔗 <kbd> [![](https://img.shields.io/badge/🥼-97BFB4?style=for-the-badge)](./research/MZ-twin) </kbd>
