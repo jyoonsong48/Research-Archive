@@ -1,3 +1,6 @@
 ## $\text{Topics}$
 ### $\text{1. DNA methylation}$
 <kbd> [![DNAmethylation](https://img.shields.io/badge/DNA%20methylation-97BFB4?style=for-the-badge)](./DNAmethylation) </kbd>
+***
+### $\text{2. Telomere}$
+<kbd> [![telomere](https://img.shields.io/badge/Telomere-97BFB4?style=for-the-badge)](./telomere) </kbd>
