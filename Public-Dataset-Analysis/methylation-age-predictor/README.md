@@ -3,15 +3,15 @@
 > **Database Info**
 > 
 > The database used is based on the research conducted by the Department of Forensic Medicine at Seoul National University.
-> <br> You can check original database here: `https://forensicdna.snu.ac.kr/portal/guideline`
+> <br> You can check the original database here: `https://forensicdna.snu.ac.kr/portal/guideline`
 
 ---
 
 ## $\text{✨ Key Points}$
 
 - **Linear Regression model:**
-  - **5 CpG methylation markers**: `ELOVL2`, `FHL2`, `KLF14`, `MIR29B2C`, and `TRIM59` alongside with 3 body fluid types (blood, saliva, buccal swab).
-  - **One-hot encoding**: Categorical variables (Body Fluid Type, Genetic Analyzer) were processed via one-hot encoding.
+  - **5 CpG methylation markers**: `ELOVL2`, `FHL2`, `KLF14`, `MIR29B2C`, and `TRIM59` alongside 3 body fluid types (blood, saliva, buccal swab).
+  - **One-hot encoding**: Categorical variables (Body Fluid Type, Genetic Analyser) were processed via one-hot encoding.
 - **Model Validation:**
   - **5-Fold Cross Validation combined with Train/Test Split**: Verified performance stability (Mean R² = 0.887, Std = 0.010, MAE = ±3.78 years).
   - **Residual Plot**: Examined linearity assumptions and age-specific error patterns.
@@ -37,7 +37,7 @@
 
 ## $\text{🚀 Future Roadmap}$
 - **Non-linear Model Comparison:** Polynomial Regression / Random Forest will be employed for comparison. (possibility that certain markers do not show linear correlation with age)
-- **Web Interface:** Plan to make website (using Streamlit etc.) that presents age estiamtion with CpG marker input.
+- **Web Interface:** Plan to make a website (using Streamlit etc.) that presents age estimation with CpG marker input.
 
 ---
 
